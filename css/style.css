@@ -1,0 +1,42 @@
+header,
+footer {
+  padding: 1em;
+  text-align: center;
+}
+
+.inner {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2em;
+}
+.main h2,
+.main p {
+  padding-bottom: 0.5em;
+}
+.main h2 {
+  font-size: 1.2em;
+}
+.main p {
+  padding-left: 0.5em;
+}
+.main li {
+  padding-bottom: 1em;
+  list-style: none;
+}
+.title {
+  font-size: 1.5em;
+}
+.Security-measures .inner,
+.exception {
+  padding: 0.5em 2em;
+}
+.Security-measures h3 {
+  padding-bottom: 0.5em;
+}
+.Security-measures li {
+  list-style: disc;
+}
+.exception li {
+  list-style: auto;
+  padding-bottom: 0.5em;
+}

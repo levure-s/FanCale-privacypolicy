@@ -18,6 +18,7 @@ footer {
 }
 .main p {
   padding-left: 0.5em;
+  line-height: 1.2em;
 }
 .main li {
   padding-bottom: 1em;
@@ -39,4 +40,7 @@ footer {
 .exception li {
   list-style: auto;
   padding-bottom: 0.5em;
+}
+.exception li h4 {
+  line-height: 1.2em;
 }
